@@ -17,6 +17,7 @@ gem 'mini_magick'
 
 # figaro
 gem 'figaro'
+gem 'simple_form'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.9'
